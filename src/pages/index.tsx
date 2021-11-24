@@ -1,7 +1,6 @@
 import Link from 'next/link'
 
 const HomePage = () => 
-    <Link href="/users">Users</Link>
+  <Link href="/users">Users</Link>
 
-  
-  export default HomePage
+export default HomePage
